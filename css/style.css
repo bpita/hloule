@@ -1,0 +1,27 @@
+.bg {
+	background-color: #09b5ce;		
+}
+
+.content {
+	margin: auto;
+	padding-top: 10%;
+}
+
+.upload-form {
+	background-color: white;
+	box-shadow: 6px 6px 2px black;
+	border-radius: 0;
+	padding: 35px;
+}
+
+input {
+	line-height: 2;
+}
+h3 {
+	padding-bottom: 25px;
+}
+
+.decode {
+	display: none;
+	background: white;
+}
